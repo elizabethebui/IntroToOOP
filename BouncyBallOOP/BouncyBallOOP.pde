@@ -12,4 +12,6 @@ void draw() {
   b.display();   
   c.display();
   //call b's display() method
+  b.move();
+  c.move();
 }
